@@ -12,10 +12,12 @@ Keywords: Productivity, Focus, Concentration, Time management, Distraction, Work
 
 This chapter contains examples of remarkable people choosing to deep work (normally in complete isolation) in order to produce also remarkable output. Notable people such as Carl Jung (psychologist), Mark Twain (writer), Woody Alen (screenwriter and director), Peter Higgs (physicist), J.K. Rowling (writer), Bill Gates (CEO Microsoft), Neal Stepheson, amongst others chose to isolate themselves in periods of deep work. The chapter also explains the differences between deep and shallow work, and why deep work is valuable for your life.
 
-Definitions and quotes:
+#### Definitions and quotes:
 
 **Deep work:**  Professional activies performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These Efforts create new value, improve your skill, and are hard to replicate.
+
 **Shallow work:** Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate.
+
 **The Deep work Hypothesis:** THe ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. AS a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.
 
 Key learnings:
