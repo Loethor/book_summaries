@@ -20,7 +20,7 @@ This chapter contains examples of remarkable people choosing to deep work (norma
 
 **The Deep work Hypothesis:** THe ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. AS a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.
 
-Key learnings:
+#### Key learnings:
  - Deep work, thought a burden to prioritize, was crucial for his goal of changing the world.
  - Spend enough time in a state of frenetic shallowness permanently reduces your capaticy to deep work.
  - Network tools negatively impact deep work.
