@@ -6,9 +6,9 @@ Welcome to my book summaries repository! This is where I store summaries of the 
 
 Here's a list of the books I've summarized so far:
 
-- [Deep Work: Rules For Focused Success In A Distracted World](./deep-work/README.md)
-- [The 7 Habits Of Highly Effective People](./seven-habits/README.md)
-- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](./atomic-habits/README.md)
+- [Deep Work: Rules For Focused Success In A Distracted World](./deep-work/readme.md)
+- [The 7 Habits Of Highly Effective People](./seven-habits/readme.md)
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](./atomic-habits/readme.md)
 
 ## How to Use This Repository
 
