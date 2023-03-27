@@ -16,7 +16,7 @@ Definitions and quotes:
 
 **Deep work:**  Professional activies performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These Efforts create new value, improve your skill, and are hard to replicate.
 **Shallow work:** Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate.
-**The Deep work Hypothesis:** THe ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. AS a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.
+**The Deep work Hypothesis:** The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. AS a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.
 
 Key learnings:
  - Deep work, thought a burden to prioritize, was crucial for his goal of changing the world.
@@ -29,7 +29,15 @@ Key learnings:
  - A deep life is a good life.
 
 ## PART 1: The Idea
+
+
 ### Chapter 1: Deep Work Is Valuable
+
+The chapter starts with some more examples of successful people. With technology advancing more and more each day, organizations and many of our skills are lagging behind. 
+
+There are three groups that will thrive in this economy. These are the following
+ - **The High-Skilled Workers:** Advances in technology are automating low-skill positions. Those with the ability to work with, and produce valuable results out of complex systems with thrive. *Are you good to work with intelligent machines or not?*
+ - **The Superstars:** 
 
 ### Chapter 2: Deep Work Is Rare
 
