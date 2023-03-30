@@ -36,9 +36,29 @@ This chapter contains examples of remarkable people choosing to deep work (norma
 
 The chapter starts with some more examples of successful people. With technology advancing more and more each day, organizations and many of our skills are lagging behind. 
 
-There are three groups that will thrive in this economy. These are the following
- - **The High-Skilled Workers:** Advances in technology are automating low-skill positions. Those with the ability to work with, and produce valuable results out of complex systems with thrive. *Are you good to work with intelligent machines or not?*
- - **The Superstars:** 
+Three Groups That Thrive in the New Economy
+
+The book discusses how advances in technology are changing the job market and making it more challenging for some workers to succeed. The author identifies three groups that are likely to thrive in this new economy:
+
+ **The High-Skilled Workers:** With low-skill positions being automated, those who can work with and create valuable results from complex systems will prosper. The question is, are you capable of working with intelligent machines?
+
+ **The Superstars:** Thanks to high-speed data networks and online collaboration tools like email, geographical boundaries are no longer a barrier. Companies can now hire superstars for specific projects, rather than full-time engineers or other professionals. When the talent market becomes universally accessible, those at the top will prosper, while others will struggle.
+
+ **The Owners:** Those who have the capital to invest in new technologies.
+
+The book focuses on the first two groups since there are no secrets to amassing large amounts of money. It defines two core abilities for thriving in the new economy:
+
+ 1. The ability to quickly master hard things.
+ 2. The ability to produce at an elite level, in terms of both quality and speed.
+
+These two core abilities depend on your ability to perform deep work. The book provides several examples that convey the idea that intense concentration is crucial to learning.
+
+But what does intense concentration mean? It involves:
+
+ 1. Focusing your attention tightly on a specific skill you're trying to improve or an idea you're trying to master.
+ 2. Receiving feedback to help you correct your approach and keep your attention exactly where it's most productive.
+
+Scientists believe that the key to learning is in myelin, a fatty tissue that insulates neurons and receptors, enabling them to transmit stimuli faster. Learning any skill is the result of specific neurons creating connections of specific paths, so it makes sense that if you can focus on the activities that stimulate those neurons in isolation, the learning will be faster.
 
 ### Chapter 2: Deep Work Is Rare
 
