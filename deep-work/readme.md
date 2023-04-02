@@ -1,4 +1,4 @@
-# Deep Work: Rules For Focused Success In A Distracted World
+# *Deep Work: Rules For Focused Success In A Distracted World*
 
 Author: [Cal Newport](https://calnewport.com/)
 

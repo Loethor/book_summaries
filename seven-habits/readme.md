@@ -1,4 +1,4 @@
-# The 7 Habits Of Highly Effective People
+# *The 7 Habits Of Highly Effective People*
 
 Author: [Stephen R. Covey](https://en.wikipedia.org/wiki/Stephen_Covey)
 

@@ -1,4 +1,4 @@
-# Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+# *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones*
 
 Author: [James Clear](https://jamesclear.com/)
 
