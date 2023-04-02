@@ -10,7 +10,7 @@ Keywords: Productivity, Focus, Concentration, Time management, Distraction, Work
 
 ### Introduction:
 
-This chapter contains examples of remarkable people choosing to deep work (normally in complete isolation) in order to produce also remarkable output. Notable people such as Carl Jung (psychologist), Mark Twain (writer), Woody Alen (screenwriter and director), Peter Higgs (physicist), J.K. Rowling (writer), Bill Gates (CEO Microsoft), Neal Stepheson, amongst others chose to isolate themselves in periods of deep work. The chapter also explains the differences between deep and shallow work, and why deep work is valuable for your life.
+This chapter contains examples of remarkable people choosing to deep work (normally in complete isolation) in order to produce also remarkable output. Notable people such as [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung) (psychologist), [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (writer), [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen) (screenwriter and director), [Peter Higgs](https://en.wikipedia.org/wiki/Peter_Higgs) (physicist), [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) (writer), [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) (CEO Microsoft), [Neal Stepheson](https://en.wikipedia.org/wiki/Neal_Stephenson), amongst others chose to isolate themselves in periods of deep work. The chapter also explains the differences between deep and shallow work, and why deep work is valuable for your life.
 
 #### Definitions and quotes:
 
@@ -30,7 +30,6 @@ This chapter contains examples of remarkable people choosing to deep work (norma
  - A deep life is a good life.
 
 ## PART 1: The Idea
-
 
 ### Chapter 1: Deep Work Is Valuable
 
