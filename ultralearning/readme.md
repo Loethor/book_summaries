@@ -72,5 +72,16 @@ Ultralearning is challenging and hard. It requires active effort, pushing yourse
 ### Technology: New frontiers in learning
 
  Technology is also in the highest of the human civilization. An amount of information vaster than was held by the Library of Alexandria is freely accesible to anyone with a device and internet connection. The space of learning possibilities is inmense, just waiting for ambitius autodidacts to come up with new ways to exploit it.
+ Although *ultralearning* doesn't require any technology it offers and incredible opportunity for innocation.
+
+ ### Accelerate, transition, and rescue your career with *ultralearning*
+
+ There are three main cases that this strategy can apply:
+  - Accelerating your career: By choosing a valuable skill and focusing on quickly developing profieciency, you can accelerate your normal career progression.
+  - Trainsitioning to a new career: Adquiring missing skills can help you switch fields and get a job in the field that you want.
+  - Cultivating a hidden advante in competitive world: Adding new skill to your arsenal can make you indispensable.
+
+### Beyond business: the call to *ultralearning*
+
 
  
